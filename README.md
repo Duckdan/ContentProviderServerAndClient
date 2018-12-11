@@ -1,0 +1,2 @@
+# ContentProviderServerAndClient
+ContentProvider的服务端和客户端的源码
